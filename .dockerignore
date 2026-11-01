@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.git/
+.venv/
+tests/
+benchmarks/
+miniredis_data.json
